@@ -1,0 +1,9 @@
+Converts numbers to words using Indian numbering system which has Shankh, Padam, Neel, Crore, Lakh, Thousand, Hundred and Units.
+
+Example:
+Input --> Output
+1 --> One
+12 --> Twelve
+123 --> One Hundred and Twenty Three
+1,23,456 --> One Lakh, Twenty Three Thousand and Four Hundred Fifty Six.
+
